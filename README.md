@@ -1,1 +1,2 @@
-# Machine Learning and Deep Learning tutorials presented at African Master's in Machine Intelligence (AMMI) in 2020.  
+# Natural Language Processing from scratch : 
+Generate text, translator, n_gra
